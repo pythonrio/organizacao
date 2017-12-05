@@ -1,5 +1,10 @@
 # Encontros
 Informações sobre os Encontros da Comunidade de Python do Rio de Janeiro
 
-# 2017
-- 27/05 - [XX Encontro](xx-encontro/README.md) - [Palestras](xx-encontro/PALESTRAS.md)
+## Eventos Futuros
+### 2018
+- 27/01/2017 (Stone Pagamentos)
+
+## Eventos passsados
+### 2017
+- 16/12/2017 (Sling)
