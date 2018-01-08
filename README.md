@@ -2,6 +2,9 @@
 Informações sobre os Encontros da Comunidade de Python do Rio de Janeiro
 
 ## Eventos Futuros
+
+Os encontros ocorrerão em todo último sábado do mês no ano de 2018.
+
 ### 2018
 - 27/01/2018 - Local: Stone Pagamentos
 - 27/02/2018 - Local: B2W
