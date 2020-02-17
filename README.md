@@ -3,9 +3,9 @@ Informações sobre os Encontros da Comunidade de Python do Rio de Janeiro
 
 ## Eventos Futuros
 
-| Data       | Local        |
-| ---------- | ------------ |
-| 29/02/2020 | A definir    |
+| Data       | Local        | Palestras                                           | Meetup        |
+| ---------- | ------------ | ------------       | ------------ |
+| 29/02/2020 | IBM Botafogo | https://speakerfight.com/events/pythonrio-29022020/ | https://www.meetup.com/pt-BR/pythonrio/events/268774478/ |
 | 28/03/2020 | A definir    |
 | 25/04/2020 | A definir    |
 | 30/05/2020 | A definir    |
