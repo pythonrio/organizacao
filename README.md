@@ -5,8 +5,8 @@ Informações sobre os Encontros da Comunidade de Python do Rio de Janeiro
 
 | Data | Horário | Organização | Local | Chamada pra Palestras/Inscrições | Quantidade max pessoas |
 | ---------- | ------------ | ------------ | ------------ | ----------- |
-| 27/08/2022 - dados | @flaviocpontes | 13h às 18h | x | x | x
-| 24/09/2022 - esquenta pyBR | @biancarosa |x | x | x | x
+| 27/08/2022 - dados | @flaviocpontes | x| x | x | x
+| 24/09/2022 - esquenta pyBR | @biancarosa | x | x | x | x
 | 26/11/2022 - web  | ? | x | x | x | x
 
 
